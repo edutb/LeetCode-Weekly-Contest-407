@@ -1,6 +1,6 @@
 # LeetCode Weekly Contest 407.
 
-This repository contains my solutions to the problems from [LeetCode Weekly Contest 401](https://leetcode.com/contest/weekly-contest-407/). Each solution is implemented in C++ or Python. Below, you will find a description with the topic of each problem.
+This repository contains my solutions to the problems from [LeetCode Weekly Contest 407](https://leetcode.com/contest/weekly-contest-407/). Each solution is implemented in C++ or Python. Below, you will find a description with the topic of each problem.
 
 ## Problem 3226. Number of Bit Changes to Make Two Integers Equal
 
